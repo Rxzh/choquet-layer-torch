@@ -1,7 +1,7 @@
 # choquet-layer-torch
- An implementation of the Choquet Layer for PyTorch
+ An implementation of the [Choquet Layer](https://github.com/Jacobiano/ChoquetLayer) for PyTorch.
 
-
+Original code and paper by S. VELASCO-FORERO, CMM Mines Paris
 
 
 ### Notes
